@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zitz59
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React,JS,TypeScript
+- 🌱 I’m currently learning React,JS,TypeScript,Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
